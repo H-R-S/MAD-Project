@@ -10,8 +10,8 @@ Follow these steps to get the project up and running on your local machine or em
 
 Before you begin, make sure you have Flutter installed on your machine. You can follow the official Flutter installation guide [here](https://flutter.dev/docs/get-started/install).
 
-### Cloning the Repository
-1. Clone the repository to your local machine using the following command:
+1. ### Cloning the Repository
+Clone the repository to your local machine using the following command:
 ```
 git clone https://github.com/H-R-S/MAD-Project
 ```
