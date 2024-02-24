@@ -12,7 +12,7 @@ This project is a news aggregator that fetches news data from a MongoDB database
 1. #### Clone the repository:
 Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/news-aggregator.git
+git clone https://github.com/H-R-S/MAD-Project
 ```
 
 2. #### Project:
