@@ -4,9 +4,9 @@ This project is a news aggregator that fetches news data from various news websi
 
 ## Detail Readme
 
-### Web-Scaper: [Web-Scaper.md](https://github.com/H-R-S/MAD-Project/blob/main/Web-Scraper/web-scraper.md)
-### Backend: [Backend.md](https://github.com/H-R-S/MAD-Project/blob/main/Backend/backend.md)
-### Application: [Application.md](https://github.com/H-R-S/MAD-Project/blob/main/Application/application.md)
+#### Web-Scaper: [Web-Scaper.md](https://github.com/H-R-S/MAD-Project/blob/main/Web-Scraper/web-scraper.md)
+#### Backend: [Backend.md](https://github.com/H-R-S/MAD-Project/blob/main/Backend/backend.md)
+#### Application: [Application.md](https://github.com/H-R-S/MAD-Project/blob/main/Application/application.md)
 
 ## Getting Started
 
